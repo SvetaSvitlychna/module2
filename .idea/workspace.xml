@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a3e3815-c22b-4002-bd83-ca23006003b9" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/controllers/PageNotFoundController.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/controllers/EditUserController.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/controllers/HomepageController.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/controllers/LoginPageController.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/views/templates/page_register.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/controllers/SecurityController.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/controllers/RegisterController.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/controllers/MediaController.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/public/index.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/controllers/UsersController.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/composer.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/controllers/CreateUserController.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/views/templates/create_user.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/controllers/StatusController.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/models/QueryBuilder.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/views/templates/status.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/views/templates/users.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/views/templates/security.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/views/templates/template.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/views/templates/page_login.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/views/templates/medias.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/controllers/ProfileController.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/vendor/delight-im/auth/src/Role.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/vendor/league/plates/example/templates/profile.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/vendor/delight-im/auth/src/Auth.php" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/aura/sqlquery" />
+      <path value="$PROJECT_DIR$/vendor/league/plates" />
+      <path value="$PROJECT_DIR$/vendor/kint-php/kint" />
+      <path value="$PROJECT_DIR$/vendor/tamtamchik/simple-flash" />
+      <path value="$PROJECT_DIR$/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/vendor/delight-im/base64" />
+      <path value="$PROJECT_DIR$/vendor/delight-im/cookie" />
+      <path value="$PROJECT_DIR$/vendor/delight-im/db" />
+      <path value="$PROJECT_DIR$/vendor/delight-im/http" />
+      <path value="$PROJECT_DIR$/vendor/delight-im/auth" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/macroable" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/collections" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/eoghanobrien/php-simple-mail" />
+      <path value="$PROJECT_DIR$/vendor/jasongrimes/paginator" />
+      <path value="$PROJECT_DIR$/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/vendor/php-di/invoker" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/php-di/phpdoc-reader" />
+      <path value="$PROJECT_DIR$/vendor/php-di/php-di" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="253c47bSu7WGXlpCvz537eGlVYN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../xampp7.3.2/htdocs/porsche.local" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Openserver\domains\module2.local\controllers" />
+      <recent name="C:\Openserver\domains\module2.local\public" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Openserver\domains\module2.local\public" />
+      <recent name="C:\Openserver\domains\module2.local" />
+      <recent name="C:\xampp7.3.2\htdocs\module2.local" />
+      <recent name="C:\xampp7.3.2\htdocs\module2.local\app\controllers" />
+      <recent name="C:\xampp7.3.2\htdocs\module2.local\app" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a3e3815-c22b-4002-bd83-ca23006003b9" name="Changes" comment="" />
+      <created>1644759016932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644759016932</updated>
+      <workItem from="1644759018760" duration="7642000" />
+      <workItem from="1644950083008" duration="1710000" />
+      <workItem from="1645006417356" duration="631000" />
+      <workItem from="1645090430021" duration="1729000" />
+      <workItem from="1645182426163" duration="577000" />
+      <workItem from="1645281960288" duration="13726000" />
+      <workItem from="1645348399420" duration="21471000" />
+      <workItem from="1645436784066" duration="603000" />
+      <workItem from="1645455314630" duration="917000" />
+      <workItem from="1645469063687" duration="1759000" />
+      <workItem from="1645556934099" duration="556000" />
+      <workItem from="1646646883724" duration="680000" />
+      <workItem from="1646828546448" duration="1140000" />
+      <workItem from="1647174788845" duration="2376000" />
+      <workItem from="1647256276923" duration="1451000" />
+      <workItem from="1647348099266" duration="514000" />
+      <workItem from="1647431842478" duration="468000" />
+      <workItem from="1647507363409" duration="557000" />
+      <workItem from="1647592543556" duration="512000" />
+      <workItem from="1647608779739" duration="557000" />
+      <workItem from="1647681209874" duration="11812000" />
+      <workItem from="1647793507629" duration="1769000" />
+      <workItem from="1647955585947" duration="628000" />
+      <workItem from="1648198660960" duration="505000" />
+      <workItem from="1648306693662" duration="559000" />
+      <workItem from="1648373337521" duration="1136000" />
+      <workItem from="1648456688730" duration="557000" />
+      <workItem from="1648542619627" duration="578000" />
+      <workItem from="1648552751801" duration="503000" />
+      <workItem from="1648629625585" duration="559000" />
+      <workItem from="1648643311702" duration="540000" />
+      <workItem from="1648715895252" duration="802000" />
+      <workItem from="1648796163589" duration="1173000" />
+      <workItem from="1649061147520" duration="557000" />
+      <workItem from="1649086540625" duration="562000" />
+      <workItem from="1649146035749" duration="1175000" />
+      <workItem from="1649235843986" duration="502000" />
+      <workItem from="1649350044107" duration="563000" />
+      <workItem from="1649410485603" duration="583000" />
+      <workItem from="1649436858579" duration="563000" />
+      <workItem from="1649509631248" duration="1908000" />
+      <workItem from="1649664040745" duration="623000" />
+      <workItem from="1649846805451" duration="553000" />
+      <workItem from="1650187363699" duration="2363000" />
+      <workItem from="1650271053125" duration="550000" />
+      <workItem from="1650298821954" duration="1783000" />
+      <workItem from="1650353805022" duration="555000" />
+      <workItem from="1650383391461" duration="3840000" />
+      <workItem from="1650440692652" duration="486000" />
+      <workItem from="1650869325943" duration="17732000" />
+      <workItem from="1650904494031" duration="6809000" />
+      <workItem from="1650953274514" duration="1214000" />
+      <workItem from="1650955929650" duration="1889000" />
+      <workItem from="1651154200710" duration="478000" />
+      <workItem from="1651164510921" duration="865000" />
+      <workItem from="1651214161872" duration="1396000" />
+      <workItem from="1651324695836" duration="6109000" />
+      <workItem from="1651411732310" duration="9943000" />
+      <workItem from="1651509454364" duration="5221000" />
+      <workItem from="1652031831073" duration="4452000" />
+      <workItem from="1652076827418" duration="595000" />
+      <workItem from="1652170972008" duration="1221000" />
+      <workItem from="1652252522607" duration="591000" />
+      <workItem from="1652279948771" duration="638000" />
+      <workItem from="1652343853025" duration="13636000" />
+      <workItem from="1652369953519" duration="5443000" />
+      <workItem from="1652425098613" duration="585000" />
+      <workItem from="1652451363056" duration="10537000" />
+      <workItem from="1652539215085" duration="4929000" />
+      <workItem from="1652604906282" duration="11429000" />
+      <workItem from="1652630070289" duration="3082000" />
+      <workItem from="1652687968866" duration="4592000" />
+      <workItem from="1652786672766" duration="9777000" />
+      <workItem from="1652860379212" duration="7616000" />
+      <workItem from="1652949904190" duration="10071000" />
+      <workItem from="1652980984830" duration="1408000" />
+      <workItem from="1653034427592" duration="3474000" />
+      <workItem from="1653040882499" duration="21501000" />
+      <workItem from="1653142102537" duration="2081000" />
+      <workItem from="1653146268183" duration="1182000" />
+      <workItem from="1653290598571" duration="568000" />
+      <workItem from="1653325535945" duration="585000" />
+      <workItem from="1653385165054" duration="5305000" />
+      <workItem from="1653403560093" duration="8022000" />
+      <workItem from="1653464795133" duration="743000" />
+      <workItem from="1653549275534" duration="688000" />
+      <workItem from="1653569522251" duration="537000" />
+      <workItem from="1653587492647" duration="1688000" />
+      <workItem from="1653639834155" duration="4900000" />
+      <workItem from="1653658314952" duration="1098000" />
+      <workItem from="1653666737815" duration="8513000" />
+      <workItem from="1655041267128" duration="3170000" />
+      <workItem from="1655105408699" duration="614000" />
+      <workItem from="1655194717346" duration="386000" />
+      <workItem from="1655281980862" duration="357000" />
+      <workItem from="1655366261191" duration="654000" />
+      <workItem from="1655476146336" duration="515000" />
+      <workItem from="1655816519924" duration="5360000" />
+      <workItem from="1655902077551" duration="8896000" />
+      <workItem from="1655974049156" duration="9983000" />
+      <workItem from="1656092708354" duration="3287000" />
+      <workItem from="1656153389063" duration="6494000" />
+      <workItem from="1656174188634" duration="5202000" />
+      <workItem from="1656247814740" duration="11100000" />
+      <workItem from="1656340827233" duration="13004000" />
+      <workItem from="1656402450349" duration="689000" />
+      <workItem from="1656438890304" duration="7319000" />
+      <workItem from="1657094293199" duration="994000" />
+      <workItem from="1657268102119" duration="590000" />
+      <workItem from="1657536027298" duration="531000" />
+      <workItem from="1657612340247" duration="556000" />
+      <workItem from="1657707434408" duration="573000" />
+      <workItem from="1658129943478" duration="583000" />
+      <workItem from="1658388510272" duration="570000" />
+      <workItem from="1658475107002" duration="418000" />
+      <workItem from="1658733942002" duration="113000" />
+      <workItem from="1658734246800" duration="489000" />
+      <workItem from="1658909120687" duration="777000" />
+      <workItem from="1658999068813" duration="442000" />
+      <workItem from="1659082398686" duration="514000" />
+      <workItem from="1659333628908" duration="1737000" />
+      <workItem from="1659373711073" duration="564000" />
+      <workItem from="1659422087504" duration="571000" />
+      <workItem from="1659518141336" duration="553000" />
+      <workItem from="1659598292665" duration="1162000" />
+      <workItem from="1659631388570" duration="521000" />
+      <workItem from="1659696083194" duration="1855000" />
+      <workItem from="1659954832749" duration="552000" />
+      <workItem from="1660031186290" duration="558000" />
+      <workItem from="1660137769969" duration="939000" />
+      <workItem from="1660210857369" duration="964000" />
+      <workItem from="1660322802490" duration="12861000" />
+      <workItem from="1660415152175" duration="5929000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/models/QueryBuilder.php</url>
+          <line>18</line>
+          <properties>
+            <option name="className" value="\Models\QueryBuilder" />
+            <option name="methodName" value="getAll" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controllers/EditUserController.php</url>
+          <line>31</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
